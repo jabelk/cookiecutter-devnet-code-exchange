@@ -5,8 +5,8 @@ A template for DevNet Code Exchange projects using [cookiecutter](https://github
 # How to use this template
 
 ```
-    $ pip install cookiecutter
-    $ cookiecutter https://github.com/jabelk/cookiecutter-devnet-code-exchange.git
+$ pip install cookiecutter
+$ cookiecutter https://github.com/jabelk/cookiecutter-devnet-code-exchange.git
 ```
 
 You will be asked about your basic info (name, project name, description, etc.). This info will be used in your new project.
