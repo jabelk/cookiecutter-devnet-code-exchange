@@ -11,6 +11,8 @@ $ cookiecutter https://github.com/jabelk/cookiecutter-devnet-code-exchange.git
 
 You will be asked about your basic info (name, project name, description, etc.). This info will be used in your new project.
 
+> Note: This template assumes the BSD 3-Clause License, you can change it be other licenses afterwards if that is not what you want.
+
 
 ## Example 
 ```bash
